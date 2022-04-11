@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+_demo solo cursiva_
+
+**demo solo negrita**
+
+_demo cursiva y **negrita** prueba 3_
